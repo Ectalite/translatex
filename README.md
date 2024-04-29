@@ -1,3 +1,5 @@
+Repository not maintained. Fork is exclusively used for preservation purpose.
+
 # TransLaTeX
 
 [![pipeline status](https://gitlab.math.unistra.fr/cassandre/translatex/badges/main/pipeline.svg)](https://gitlab.math.unistra.fr/cassandre/translatex/-/commits/main)
