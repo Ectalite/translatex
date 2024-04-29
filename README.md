@@ -1,4 +1,4 @@
-Repository not maintained. Fork is exclusively used for preservation purpose.
+### Repository not maintained. Fork is exclusively used for preservation purpose.
 
 # TransLaTeX
 
