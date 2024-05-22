@@ -28,6 +28,8 @@ COMPLETELY_REMOVED_ENVS: List[str] = [
     "verbatim*",
     "lstlisting",
     "tikzpicture",
+    "minipage",
+    "wrapfigure",
 ]
 """These are the names of the known named environments to the program to be completely marked and tokenized.
 
