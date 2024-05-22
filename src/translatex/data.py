@@ -15,6 +15,7 @@ MATH_ENVS: List[str] = [
     "Bmatrix",
     "vmatrix",
     "Vmatrix",
+    "figure",
 ]
 """These are the names of the known LaTeX math environments to the program.
 
