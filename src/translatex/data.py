@@ -79,6 +79,7 @@ COMPLETELY_REMOVED_COMMANDS: List[str] = [
     "rule",
     "adjustbox",
     "begin",
+    "end",
 ]
 """These are commands that need to be completely tokenized and that never have text to be translated inside."""
 
