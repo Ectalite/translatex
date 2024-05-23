@@ -15,9 +15,6 @@ MATH_ENVS: List[str] = [
     "Bmatrix",
     "vmatrix",
     "Vmatrix",
-    "figure",
-    "wrapfigure",
-    "adjustbox"
 ]
 """These are the names of the known LaTeX math environments to the program.
 
@@ -82,8 +79,6 @@ COMPLETELY_REMOVED_COMMANDS: List[str] = [
     "input",
     "includegraphics",
     "rule",
-    "adjustbox",
-    "wrapfigure",
 ]
 """These are commands that need to be completely tokenized and that never have text to be translated inside."""
 
