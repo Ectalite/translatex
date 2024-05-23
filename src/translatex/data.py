@@ -15,6 +15,8 @@ MATH_ENVS: List[str] = [
     "Bmatrix",
     "vmatrix",
     "Vmatrix",
+    "minipage",
+    "wrapfigure",
 ]
 """These are the names of the known LaTeX math environments to the program.
 
@@ -28,8 +30,6 @@ COMPLETELY_REMOVED_ENVS: List[str] = [
     "verbatim*",
     "lstlisting",
     "tikzpicture",
-    "minipage",
-    "wrapfigure",
 ]
 """These are the names of the known named environments to the program to be completely marked and tokenized.
 
